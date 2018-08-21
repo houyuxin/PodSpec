@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "PodSpec"
-  s.version      = "0.0.1"
+  s.version      = "1.0.0"
   s.summary      = "自己搭建的公开库"
 
   # This description is used to generate tags and improve search results.
